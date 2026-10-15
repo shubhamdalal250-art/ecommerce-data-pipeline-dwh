@@ -1,0 +1,11 @@
+# Windows desktop metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Power BI temporary files
+*.tmp
+~$*.pbix
+
+# OS temporary files
+*.log
